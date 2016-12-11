@@ -1,0 +1,11 @@
+{
+    "name": "wildgrass",
+    "type": 1,
+    "blockClass": "CrossMeshBlock",
+    "configClass": "CrossMeshBlockConfig",
+    "texture": "wild_grass",
+    "canBeWalkedOn": false,
+    "canBeWalkedThrough": true,
+    "raycastHitOnRemoval": true,
+    "raycastHit": false
+}
